@@ -1,0 +1,12 @@
+{
+    "blockChain":[
+        {
+            "id":0,
+            "nonce":12,
+            "timeStamp":1141414141,
+            "hash":"xxxxxxxx",
+            "previousHash":"00000000",
+            "transaction":"transaction1"
+        }
+    ]
+}
